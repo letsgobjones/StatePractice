@@ -11,7 +11,9 @@ import SwiftUI
 struct StatePracticeApp: App {
     var body: some Scene {
         WindowGroup {
+          NavigationStack {
             ContentView()
+          }
         }
     }
 }

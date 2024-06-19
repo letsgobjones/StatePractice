@@ -11,6 +11,7 @@
 		CAA4D6602C1ADEC000DCCCE6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAA4D65F2C1ADEC000DCCCE6 /* ContentView.swift */; };
 		CAA4D6622C1ADEC100DCCCE6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CAA4D6612C1ADEC100DCCCE6 /* Assets.xcassets */; };
 		CAA4D6652C1ADEC100DCCCE6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CAA4D6642C1ADEC100DCCCE6 /* Preview Assets.xcassets */; };
+		CAA4D66C2C1AEAD500DCCCE6 /* FriendsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAA4D66B2C1AEAD500DCCCE6 /* FriendsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		CAA4D65F2C1ADEC000DCCCE6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CAA4D6612C1ADEC100DCCCE6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CAA4D6642C1ADEC100DCCCE6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CAA4D66B2C1AEAD500DCCCE6 /* FriendsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				CAA4D65D2C1ADEC000DCCCE6 /* StatePracticeApp.swift */,
 				CAA4D65F2C1ADEC000DCCCE6 /* ContentView.swift */,
+				CAA4D66B2C1AEAD500DCCCE6 /* FriendsView.swift */,
 				CAA4D6612C1ADEC100DCCCE6 /* Assets.xcassets */,
 				CAA4D6632C1ADEC100DCCCE6 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CAA4D66C2C1AEAD500DCCCE6 /* FriendsView.swift in Sources */,
 				CAA4D6602C1ADEC000DCCCE6 /* ContentView.swift in Sources */,
 				CAA4D65E2C1ADEC000DCCCE6 /* StatePracticeApp.swift in Sources */,
 			);
